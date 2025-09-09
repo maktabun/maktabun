@@ -10,7 +10,6 @@ Our mission is to build a modern, open, and accessible digital environment for s
 ## 🚀 About Maktabun
 - 📚 An **educational workstation** for organizing, managing, and enhancing the learning experience.  
 - 💻 Combines tools for students, teachers, and researchers in one place.  
-- 🛠️ Open source & community-driven.  
 - 🌍 Aims to empower learners globally with accessible technology.  
 
 ---
